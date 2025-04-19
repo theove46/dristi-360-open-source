@@ -1,0 +1,30 @@
+[
+  {
+    "title": "বিস্তারিত",
+    "image": "assets/images/destination_items/details.svg"
+  },
+  {
+    "title": "হোটেল",
+    "image": "assets/images/destination_items/hotel.svg"
+  },
+  {
+    "title": "নিকটবর্তী",
+    "image": "assets/images/destination_items/nearest.svg"
+  },
+  {
+    "title": "সিজন",
+    "image": "assets/images/destination_items/seasons.svg"
+  },
+  {
+    "title": "বিশেষ",
+    "image": "assets/images/destination_items/specials.svg"
+  },
+  {
+    "title": "সতর্কতা",
+    "image": "assets/images/destination_items/caution.svg"
+  },
+  {
+    "title": "ব্লগ",
+    "image": "assets/images/destination_items/blogs.svg"
+  }
+]

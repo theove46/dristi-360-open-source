@@ -1,0 +1,44 @@
+{
+  "follow": {
+    "description": "আমাদের সাথে সোশ্যাল মিডিয়ার মাধ্যমে সংযুক্ত থাকুন।",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61569934783979",
+    "instagram_url": "https://www.instagram.com/dristi_360/",
+    "youtube_url": "https://www.youtube.com/@Dristi360-info"
+  },
+  "ratings_reviews": {
+    "description": "আমাদের অ্যাপটি রেটিং এবং রিভিউ দিন।",
+    "play_store_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
+  },
+  "share": {
+    "description": "আপনার পরিবার বন্ধুদের সাথে আমাদের Dristi অ্যাপটি শেয়ার করুন।",
+    "share_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
+  },
+  "contribution": {
+    "description": "আপনি নতুন কোন লোকেশনের তথ্য দিয়ে আমাদের অ্যাপে কন্টিবিউশন করতে পারেন। তথ্য দেওয়ার জন্য নিম্নের গুগল ফর্মটি পূরণ করুন।",
+    "google_form": "https://forms.gle/JQQ5uQW6o2oi5xwP9"
+  },
+  "support": {
+    "description": "সহায়তার প্রয়োজন? আমাদের সামাজিক অ্যাকাউন্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।",
+    "facebook": "https://www.facebook.com/profile.php?id=61569934783979",
+    "instagram": "https://www.instagram.com/dristi_360/",
+    "youtube": "https://www.youtube.com/@Dristi360-info"
+  },
+  "contact": {
+    "description": "আমাদের সাথে সোশ্যাল মিডিয়ার মাধ্যমে যোগাযোগ করুন।",
+    "email": "dristi360info@gmail.com",
+    "whatsapp": "+880 1533-377296"
+  },
+  "privacy_policy": {
+    "description": "আপনার তথ্য কীভাবে পরিচালিত হয় তা জানতে আমাদের গোপনীয়তা নীতি পড়ুন।",
+    "policies": [
+      ""
+    ]
+  },
+  "terms_services": {
+    "description": "আমাদের অ্যাপ ব্যবহারের শর্তাবলী পড়ুন।",
+    "terms": [
+      ""
+    ]
+  },
+  "message": "Success"
+}

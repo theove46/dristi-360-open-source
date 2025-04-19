@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ds0001",
+    "title": "Inani Beach",
+    "onImageTitle": "Inani Beach",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": [
+      "Beaches"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1mjpuHlyhVcZPLZcfhzqmqMM5MVus9kwm"
+  },
+  {
+    "id": "ds0002",
+    "title": "Saint Martins",
+    "onImageTitle": "Saint Martins",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": [
+      "Beaches",
+      "Islands"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1dPSOSdpTtKC88RHyaKsKCq0V8RxLE7vL"
+  },
+  {
+    "id": "ds0003",
+    "title": "Kaptai Lake",
+    "onImageTitle": "Kaptai Lake",
+    "district": "Rangamati",
+    "division": "Chattogram",
+    "category": [
+      "Lakes"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1T5shyzOirMqutw4cpOQgMBpvlvfyn9fu"
+  }
+  ]

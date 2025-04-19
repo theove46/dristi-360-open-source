@@ -1,0 +1,44 @@
+{
+  "follow": {
+    "description": "Stay connected with us through our social media.",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61569934783979",
+    "instagram_url": "https://www.instagram.com/dristi_360/",
+    "youtube_url": "https://www.youtube.com/@Dristi360-info"
+  },
+  "ratings_reviews": {
+    "description": "Rate and review our app.",
+    "play_store_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
+  },
+  "share": {
+    "description": "Share the Dristi app with your family and friends.",
+    "share_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
+  },
+  "contribution": {
+    "description": "You can contribute to our app with any new location information. Fill out the Google form below to provide information.",
+    "google_form": "https://forms.gle/JQQ5uQW6o2oi5xwP9"
+  },
+  "support": {
+    "description": "Need help? Reach out to us through our social accounts.",
+    "facebook": "https://www.facebook.com/profile.php?id=61569934783979",
+    "instagram": "https://www.instagram.com/dristi_360/",
+    "youtube": "https://www.youtube.com/@Dristi360-info"
+  },
+  "contact": {
+    "description": "Need contact? Reach out to us through our social accounts.",
+    "email": "dristi360info@gmail.com",
+    "whatsapp": "+880 1533-377296"
+  },
+  "privacy_policy": {
+    "description": "Read our privacy policy to learn more about how we handle your data.",
+    "policies": [
+      ""
+    ]
+  },
+  "terms_services": {
+    "description": "Read the terms and conditions for using our app.",
+    "terms": [
+      ""
+    ]
+  },
+  "message": "Success"
+}

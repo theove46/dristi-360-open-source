@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Details",
+    "image": "assets/images/destination_items/details.svg"
+  },
+  {
+    "title": "Hotels",
+    "image": "assets/images/destination_items/hotel.svg"
+  },
+  {
+    "title": "Nearest",
+    "image": "assets/images/destination_items/nearest.svg"
+  },
+  {
+    "title": "Seasons",
+    "image": "assets/images/destination_items/seasons.svg"
+  },
+  {
+    "title": "Specials",
+    "image": "assets/images/destination_items/specials.svg"
+  },
+  {
+    "title": "Cautions",
+    "image": "assets/images/destination_items/caution.svg"
+  },
+  {
+    "title": "Blogs",
+    "image": "assets/images/destination_items/blogs.svg"
+  }
+]

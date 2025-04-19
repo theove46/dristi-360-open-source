@@ -1,0 +1,35 @@
+[
+  {
+    "id": "hr0001",
+    "title": "Sea Pearl Beach Resort",
+    "onImageTitle": "Sea Pearl",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": [
+      "Hotels and Resorts"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1wcCxzY5lXM81fpwcowbZmGK-CHE-mLkS"
+  },
+  {
+    "id": "hr0002",
+    "title": "Intercontinental Dhaka",
+    "onImageTitle": "Intercontinental",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "category": [
+      "Hotels and Resorts"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1BYir6qjzx1xitCibdD4N9RglfvU2gVGd"
+  },
+  {
+    "id": "hr0003",
+    "title": "Venus Resort",
+    "onImageTitle": "Venus",
+    "district": "Bandarban",
+    "division": "Chattogram",
+    "category": [
+      "Hotels and Resorts"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1zI70F8qfPMhSTO0w6jmYGNbBY7unbmFf"
+  }
+]

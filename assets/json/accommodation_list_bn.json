@@ -1,0 +1,35 @@
+[
+  {
+    "id": "hr0001",
+    "title": "সী পার্ল বীচ রিসোর্ট",
+    "onImageTitle": "Sea Pearl",
+    "district": "কক্সবাজার",
+    "division": "চট্টগ্রাম",
+    "category": [
+      "হোটেল ও রিসোর্ট"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1wcCxzY5lXM81fpwcowbZmGK-CHE-mLkS"
+  },
+  {
+    "id": "hr0002",
+    "title": "ইন্টারকন্টিনেন্টাল ঢাকা",
+    "onImageTitle": "Intercontinental",
+    "district": "ঢাকা",
+    "division": "ঢাকা",
+    "category": [
+      "হোটেল ও রিসোর্ট"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1BYir6qjzx1xitCibdD4N9RglfvU2gVGd"
+  },
+  {
+    "id": "hr0003",
+    "title": "ভেনাস রিসোর্ট",
+    "onImageTitle": "Venus",
+    "district": "বান্দরবন",
+    "division": "চট্টগ্রাম",
+    "category": [
+      "হোটেল ও রিসোর্ট"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1zI70F8qfPMhSTO0w6jmYGNbBY7unbmFf"
+  }
+]

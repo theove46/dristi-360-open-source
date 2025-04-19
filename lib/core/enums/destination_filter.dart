@@ -1,0 +1,1 @@
+enum DestinationFilters { category, district }

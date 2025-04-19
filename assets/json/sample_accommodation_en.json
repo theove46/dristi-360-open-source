@@ -1,0 +1,32 @@
+{
+  "id": "hr0002",
+  "title": "Intercontinental Dhaka",
+  "onImageTitle": "Intercontinental",
+  "district": "Dhaka",
+  "division": "Dhaka",
+  "category": [
+    "Hotels and Resorts"
+  ],
+  "address": "1 Minto Road, Dhaka - 1000, Bangladesh",
+  "description": "Intercontinental Dhaka is one of the most prestigious and luxurious hotels in Bangladesh, located in the heart of Dhaka city. Known for its world-class hospitality and elegant ambiance, the hotel offers a perfect blend of modern amenities and traditional Bangladeshi warmth. It is a preferred choice for business travelers, diplomats, and tourists seeking a luxurious stay in the capital.\n\nThe hotel features a range of luxurious rooms and suites, each designed with contemporary decor and equipped with state-of-the-art facilities. Guests can enjoy a variety of dining options, including international cuisines at the on-site restaurants. The hotel also boasts a fitness center, swimming pool, spa, and business facilities, making it an ideal destination for both leisure and business travelers.\n\nIntercontinental Dhaka is renowned for its exceptional service and attention to detail. Whether you're attending a business meeting, hosting an event, or simply relaxing, the hotel ensures a memorable and comfortable experience for every guest.",
+  "phone": [
+    "0255663030"
+  ],
+  "website": [
+    {
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/dhaka/dachb/hoteldetail",
+      "site": "Website"
+    },
+    {
+      "url": "https://www.facebook.com/DhakaInterContinental/",
+      "site": "Facebook"
+    }
+  ],
+  "mapUrl": "https://www.google.com/maps/place/InterContinental+Dhaka,+an+IHG+Hotel/@23.7411187,90.3943794,17z/data=!3m2!4b1!5s0x3755b894ec5250c3:0x387c107dc7548e14!4m9!3m8!1s0x3755b894e42e5373:0x4434c59289bd383f!5m2!4m1!1i2!8m2!3d23.7411187!4d90.3969597!16s%2Fm%2F012zynxc?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+  "images": [
+    {
+      "url": "https://drive.google.com/uc?export=view&id=1BYir6qjzx1xitCibdD4N9RglfvU2gVGd",
+      "credit": ""
+    }
+  ]
+}
